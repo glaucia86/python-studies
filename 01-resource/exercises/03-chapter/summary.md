@@ -1,8 +1,6 @@
 # Chapter 03 - Introducing Lists
 
-Perfeito, Glaucia! Aqui está um resumo **descritivo** do Capítulo 3, conectando com sua bagagem de JavaScript/TypeScript para acelerar sua curva de aprendizado.
-
----
+## **Resumo – Capítulo 3: Introdução às Listas**
 
 O Capítulo 3 do *Python Crash Course* introduz o conceito de **listas**, uma das estruturas de dados mais fundamentais e poderosas de Python, equivalentes aos “arrays” do JavaScript. O capítulo mostra como listas são coleções ordenadas de elementos, que podem conter qualquer tipo de dado (strings, números, objetos, até outras listas). Você cria uma lista em Python usando colchetes (`[]`) e separando os itens por vírgula. Por exemplo, uma lista de bicicletas pode ser definida como `bicycles = ['trek', 'cannondale', 'redline', 'specialized']`. Quando você imprime uma lista inteira, ela aparece no formato literal, com colchetes e vírgulas, similar ao array literal no JavaScript.
 
