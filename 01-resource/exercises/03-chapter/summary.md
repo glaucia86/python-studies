@@ -24,6 +24,10 @@ Ao final, o capítulo enfatiza que listas são essenciais porque permitem organi
 
 ---
 
+## Notas rápidas para quem vem do JavaScript/TypeScript
+
 Se você já trabalha com arrays no JavaScript/TypeScript, vai se sentir em casa: o paradigma é praticamente idêntico, mas em Python os métodos e a sintaxe são um pouco diferentes (ex: `append` ao invés de `push`, `del lista[i]` ao invés de `splice` para remover, etc). Vale também destacar que listas em Python podem misturar tipos diferentes de dados, mas o mais comum é trabalhar com listas homogêneas por questão de clareza e manutenção.
+
+
 
 
