@@ -1,9 +1,5 @@
 # Chapter 05 - If Statements
 
-Claro! Segue o **resumo descritivo do Capítulo 5 – if Statements**, com exemplos em Python, explicações didáticas e, ao final, um comparativo com JavaScript/TypeScript para quem vem desse universo.
-
----
-
 ## Capítulo 5 – if Statements
 
 A tomada de decisões é um dos pilares da programação. O capítulo 5 apresenta as **estruturas condicionais** do Python, permitindo que você controle o fluxo de execução do seu programa a partir de testes lógicos. O `if` é o principal mecanismo para avaliar condições e decidir que caminhos o código irá seguir.
