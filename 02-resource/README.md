@@ -1,0 +1,121 @@
+# Curso - Python 3 do Básico ao Avançado: Projetos Reais by Luiz Otávio Miranda
+
+## Book Resource:
+
+- [Python 3 do Básico ao Avançado: Projetos Reais by Luiz Otávio Miranda](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+
+
+## Exercises and Summaries
+
+- Seção 1: Informações e avisos importantes + Boas Vindas
+    - [x] 1. Informações e avisos importantes + Boas Vindas
+    - [x] 2. Assista antes de prosseguir com as aulas
+
+- Seção 2: Python + VS Code: Preparando meu ambiente de desenvolvimento
+    - [x] 3. Introdução à seção
+    - [x] 4. Ubuntu 22 - Instalação básica do Python e o VS Code
+    - [x] 5. Instalação Complexa do Python e o VS Code (pyenv e zsh)
+    - [x] 6. Windows 11 - Instalando o Python e o Vs Code
+    - [x] 7. macOS - Instalando o Python e o Vs Code
+    - [x] 8. Para iniciantes: sobre as próximas aulas de configurações e instalações
+    - [x] 9. Para iniciantes: configurações VS Code (Parte 1)
+    - [x] 10. Para iniciantes: configurações VS Code (Parte 2)
+    - [x] 11. Para iniciantes: configurações VS Code (Parte 3)
+    - [x] 12. Para iniciantes: VS Code em Linux e Mac OS (assista mesmo se estiver em Windows)
+    - [x] 10. Para iniciantes: configurações VS Code (Parte 2)
+    - [x] 11. Para iniciantes: configurações VS Code (Parte 3)
+    - [x] 12. Para iniciantes: VS Code em Linux e Mac OS (assista mesmo se estiver em Windows)
+
+- Seção 3: Iniciando na programação com Python (Lógica de programação básica)
+   - [] 13. O que vamos aprender? Devo seguir essa seção?
+   - [] 14. Me ajude a produzir conteúdo gratuito
+   - [] 15. Criando meu primeiro módulo Python (*.py)
+   - [] 16. O interpretador do Python + comentários de código
+   - [] 17. Docstrings como comentários
+   - [] 18. A função print
+   - [] 19. Tipo str (string) - Introdução aos tipos de dados
+   - [] 20. Tipo int e float (números) - Introdução aos tipos de dados
+   - [] 21. Tipo bool (boolean) - Introdução aos tipos de dados
+   - [] 22. Coerção de tipos (convertendo um tipo para outro)
+   - [] 23. Introdução às variáveis em Python
+   - [] 24. Exercício: variáveis e tipos de dados para treino
+   - [] 25. Solução - exercício com variáveis e tipos de dados
+   - [] 26. Introdução aos operadores aritméticos (matemática)
+   - [] 27. Concatenação (+) e repetição (*) com operadores aritméticos
+   - [] 28. Precedência entre os operadores aritméticos
+   - [] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis
+   - [] 30. Solução exercício de programação - Cálculo do IMC
+   - [] 31. Uma introdução às f-strings (formatação de strings)
+   - [] 32. Formatação de strings com o método format
+   - [] 33. Usando a função input para coletar dados do usuário
+   - [] 34. Introdução aos blocos de código + if / elif / else (condicionais)
+   - [] 35. if, elif e else: entendendo o fluxo do interpretador em condicionais
+   - [] 36. O Debugger do VS Code e o interpretador do Python lendo os códigos
+   - [] 37. Operadores relacionais (de comparação) em Python
+   - [] 38. Exercício de programação com if e comparação
+   - [] 39. Solução - Exercício de programação com if e comparação
+   - [] 40. Operador Lógico "and"
+   - [] 41. Operador Lógico "or"
+   - [] 42. Operador lógico "not"
+   - [] 43. Operadores in e not in
+   - [] 44. Interpolação de string com % em Python
+   - [] 45. Formatação de strings com f-strings
+   - [] 46. Fatiamento de strings e a função len
+   - [] 47. Exercício: teste seu conhecimento até aqui
+   - [] 48. Solução - Exercício: teste seu conhecimento até aqui
+   - [] 49. Introdução ao try e except para capturar erros (exceptions)
+   - [] 50. Parte 1: Variáveis, constantes e complexidade de código
+   - [] 51. Parte 2: Variáveis, constantes e complexidade de código
+   - [] 52. id - A identidade do valor que está na memória
+   - [] 53. Flags, is, is not e None
+   - [] 54. Exercícios - Enunciados
+   - [] 55. Solução 1 dos Exercícios - Enunciados
+   - [] 56. Solução 2 dos Exercícios - Enunciados
+   - [] 57. Solução 3 dos Exercícios - Enunciados
+   - [] 58. Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string
+   - [] 59. Solução 4 dos Exercícios - Enunciados
+   - [] 60. Solução 5 dos Exercícios - Enunciados
+   - [] 61. while e break - Estrutura de repetição (Parte 1)
+   - [] 62. while - Condição em detalhes
+   - [] 63. while + continue - pulando alguma repetição
+   - [] 64. while + while (laços internos)
+   - [] 65. Exercício guiado com while
+   - [] 66. Exercício guiado - Calculadora - Parte 1
+   - [] 67. Exercício guiado - Calculadora - Parte 2
+   - [] 68. Exercício guiado - Calculadora - Parte 3
+   - [] 69. while / else (recurso peculiar do Python)
+   - [] 70. while - Qual letra apareceu mais vezes na frase? (Iterando strings com while)
+   - [] 71. DEBUGGER: while - Qual letra apareceu mais vezes na frase?
+   - [] 72. Introdução ao for / in - estrutura de repetição para coisas finitas
+   - [] 73. range + for para usar intervalos de números
+   - [] 74. Como o for funciona por baixo dos panos? (next, iter, iterável e iterador)
+   - [] 75. O que aprendemos com while também funciona no for (continue, break, else, etc)
+   - [] 76. Exercício - Jogo da palavra secreta
+   - [] 77. Sobre exercícios - não saber é normal
+   - [] 78. (Parte 1) Solução do exercício - Jogo da palavra secreta
+   - [] 79. (Parte 2) Solução do exercício - Jogo da palavra secreta
+   - [] 80. Tipo list - Introdução às listas mutáveis em Python
+   - [] 81. Alterando uma lista com índices, del, append e pop (Tipo list)
+   - [] 82. Inserindo itens em qualquer índice da lista com insert (Tipo list)
+   - [] 83. Concatenando e estendendo listas em Python
+   - [] 84. Cuidados com tipos de dados mutáveis - list e copy
+   - [] 85. for in com tipo list
+   - [] 86. Exercício - exiba os índices da lista (aula com solução)
+   - [] 87. Introdução ao empacotamento e desempacotamento
+   - [] 88. Tipo tuple (tuplas)
+   - [] 89. enumerate para enumerar valores de iteráveis (pegar índices)
+   - [] 90. Exercício - crie uma lista de compras com listas
+   - [] 91. Solução do exercício - crie uma lista de compras com listas (com try / except)
+   - [] 92. Imprecisão dos números de ponto flutuante + round e decimal.Decimal
+   - [] 93. split, join e strip são métodos muito úteis da str
+   - [] 94. Listas dentro de listas (iteráveis dentro de iteráveis)
+   - [] 95. Detalhes sobre o interpretador do Python
+   - [] 96. Desempacotamento em chamadas de funções
+   - [] 97. Operação ternária com Python (if e else de uma linha)
+   - [] 98. Exercício - Gerar o primeiro dígito de um CPF com Python
+   - [] 99. Solução do exercício - Gerar o primeiro dígito de um CPF com Python
+   - [] 100. Exercício - Gerar o segundo dígito de um CPF com Python
+   - [] 101. Solução do exercício - Gerar o segundo dígito de um CPF com Python
+   - [] 102. Possíveis problemas e soluções para nosso algoritmo do CPF
+   - [] 103. Criando um gerador de CPFs com nosso algoritmo e Python
+
