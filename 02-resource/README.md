@@ -27,13 +27,13 @@
     - [x] 12. Para iniciantes: VS Code em Linux e Mac OS (assista mesmo se estiver em Windows)
 
 - Seção 3: Iniciando na programação com Python (Lógica de programação básica)
-   - [] 13. O que vamos aprender? Devo seguir essa seção?
-   - [] 14. Me ajude a produzir conteúdo gratuito
-   - [] 15. Criando meu primeiro módulo Python (*.py)
-   - [] 16. O interpretador do Python + comentários de código
-   - [] 17. Docstrings como comentários
-   - [] 18. A função print
-   - [] 19. Tipo str (string) - Introdução aos tipos de dados
+   - [x] 13. O que vamos aprender? Devo seguir essa seção?
+   - [x] 14. Me ajude a produzir conteúdo gratuito
+   - [x] 15. Criando meu primeiro módulo Python (*.py)
+   - [x] 16. O interpretador do Python + comentários de código
+   - [x] 17. Docstrings como comentários
+   - [x] 18. A função print
+   - [x] 19. Tipo str (string) - Introdução aos tipos de dados
    - [] 20. Tipo int e float (números) - Introdução aos tipos de dados
    - [] 21. Tipo bool (boolean) - Introdução aos tipos de dados
    - [] 22. Coerção de tipos (convertendo um tipo para outro)
