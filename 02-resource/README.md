@@ -34,10 +34,10 @@
    - [x] 17. Docstrings como comentários
    - [x] 18. A função print
    - [x] 19. Tipo str (string) - Introdução aos tipos de dados
-   - [] 20. Tipo int e float (números) - Introdução aos tipos de dados
-   - [] 21. Tipo bool (boolean) - Introdução aos tipos de dados
-   - [] 22. Coerção de tipos (convertendo um tipo para outro)
-   - [] 23. Introdução às variáveis em Python
+   - [x] 20. Tipo int e float (números) - Introdução aos tipos de dados
+   - [x] 21. Tipo bool (boolean) - Introdução aos tipos de dados
+   - [x] 22. Coerção de tipos (convertendo um tipo para outro)
+   - [x] 23. Introdução às variáveis em Python
    - [] 24. Exercício: variáveis e tipos de dados para treino
    - [] 25. Solução - exercício com variáveis e tipos de dados
    - [] 26. Introdução aos operadores aritméticos (matemática)
