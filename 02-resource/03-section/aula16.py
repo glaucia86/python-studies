@@ -8,6 +8,3 @@ elif entrada == 'sair':
     print('Você escolheu sair.')
 else:
     print('Opção inválida.')
-
-print('Você escolheu {}'.format(entrada))
-print('Você saiu do sistema.')
