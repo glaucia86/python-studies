@@ -38,17 +38,17 @@
    - [x] 21. Tipo bool (boolean) - Introdução aos tipos de dados
    - [x] 22. Coerção de tipos (convertendo um tipo para outro)
    - [x] 23. Introdução às variáveis em Python
-   - [] 24. Exercício: variáveis e tipos de dados para treino
-   - [] 25. Solução - exercício com variáveis e tipos de dados
-   - [] 26. Introdução aos operadores aritméticos (matemática)
-   - [] 27. Concatenação (+) e repetição (*) com operadores aritméticos
-   - [] 28. Precedência entre os operadores aritméticos
-   - [] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis
-   - [] 30. Solução exercício de programação - Cálculo do IMC
-   - [] 31. Uma introdução às f-strings (formatação de strings)
-   - [] 32. Formatação de strings com o método format
-   - [] 33. Usando a função input para coletar dados do usuário
-   - [] 34. Introdução aos blocos de código + if / elif / else (condicionais)
+   - [x] 24. Exercício: variáveis e tipos de dados para treino
+   - [x] 25. Solução - exercício com variáveis e tipos de dados
+   - [x] 26. Introdução aos operadores aritméticos (matemática)
+   - [x] 27. Concatenação (+) e repetição (*) com operadores aritméticos
+   - [x] 28. Precedência entre os operadores aritméticos
+   - [x] 29. Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea) + Ellipsis
+   - [x] 30. Solução exercício de programação - Cálculo do IMC
+   - [x] 31. Uma introdução às f-strings (formatação de strings)
+   - [x] 32. Formatação de strings com o método format
+   - [x] 33. Usando a função input para coletar dados do usuário
+   - [x] 34. Introdução aos blocos de código + if / elif / else (condicionais)
    - [] 35. if, elif e else: entendendo o fluxo do interpretador em condicionais
    - [] 36. O Debugger do VS Code e o interpretador do Python lendo os códigos
    - [] 37. Operadores relacionais (de comparação) em Python
